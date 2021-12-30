@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/jekyll-theme-yat/feed.xml" rel="self" type="application/atom+xml" /><link href="/jekyll-theme-yat/" rel="alternate" type="text/html" /><updated>2021-12-30T23:41:39+00:00</updated><id>/jekyll-theme-yat/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>GitHub User</name></author><entry><title type="html">2021-22 동계 모각코 목표 설정</title><link href="/jekyll-theme-yat/mgc/2021/12/20/2021-22-pyside6developer.html" rel="alternate" type="text/html" title="2021-22 동계 모각코 목표 설정" /><published>2021-12-20T05:30:00+00:00</published><updated>2021-12-20T05:30:00+00:00</updated><id>/jekyll-theme-yat/mgc/2021/12/20/2021-22-pyside6developer</id><content type="html" xml:base="/jekyll-theme-yat/mgc/2021/12/20/2021-22-pyside6developer.html">&lt;h2 id=&quot;21-22학년도-동계-모각코-팀-목표-설정&quot;&gt;&amp;lt;21-22학년도 동계 모각코 팀 목표 설정&amp;gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-동아리명-pyside6developer&quot;&gt;1) 동아리명: PySide6Developer&lt;/h3&gt;
+&lt;h3 id=&quot;2-동아리명-의미-동아리명은-우리를-가장-잘-나타낼-수-있는-말이어야한다고-생각했음&quot;&gt;2) 동아리명 의미: 동아리명은 우리를 가장 잘 나타낼 수 있는 말이어야한다고 생각했음.&lt;/h3&gt;
+&lt;p&gt;이 동아리 활동을 마치고 나서 우리를 PySide6Developer라고
+부를 수 있는 실력이 되었으면 좋겠다는 의미임.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-활동-주제-pyside6-프레임워크에-대한-학습&quot;&gt;3) 활동 주제: PySide6 프레임워크에 대한 학습.&lt;/h3&gt;
+&lt;h3 id=&quot;4-활동-형태-총-6회&quot;&gt;4) 활동 형태: (총 6회)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;수요일 3회는 각자 선택한 주제를 공부함.
+01.12, 01.19, 01.26 &amp;amp; 20시 00분~22시 59분 =&amp;gt; gathertown 사용&lt;/li&gt;
+  &lt;li&gt;일요일 3회는 서로가 공부한 부분을 발표함.(코드 공유 등)
+01.16, 01.23, 01.30 &amp;amp; 20시 00분~22시 59분 =&amp;gt; gathertown 사용&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;동아리원-목록&quot;&gt;동아리원 목록&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;소속학과&lt;/th&gt;
+      &lt;th&gt;학년&lt;/th&gt;
+      &lt;th&gt;이름&lt;/th&gt;
+      &lt;th&gt;학번&lt;/th&gt;
+      &lt;th&gt;메일 주소&lt;/th&gt;
+      &lt;th&gt;블로그 주소&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;인공지능&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;최다솜&lt;/td&gt;
+      &lt;td&gt;202102565&lt;/td&gt;
+      &lt;td&gt;chaidasom01@gmail.com&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://somcandy08.github.io/categories.html&quot;&gt;somcandy08.github.io/categories.html&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;인공지능&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;김가연&lt;/td&gt;
+      &lt;td&gt;202102534&lt;/td&gt;
+      &lt;td&gt;gyeon0907@gmail.com&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://yeonarom.github.io/category/#mogakco&quot;&gt;yeonarom.github.io/category/#mogakco&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;인공지능&lt;/td&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;김우철&lt;/td&gt;
+      &lt;td&gt;202102536&lt;/td&gt;
+      &lt;td&gt;drkim9912@gmail.com&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://woo124.github.io/categories.html&quot;&gt;woo124.github.io/categories.html&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>GitHub User</name></author><category term="mgc" /><summary type="html">&amp;lt;21-22학년도 동계 모각코 팀 목표 설정&amp;gt;</summary></entry><entry><title type="html">2021-22 동계 모각코 개인 목표 설정</title><link href="/jekyll-theme-yat/pyside6/2021/12/20/2021-22.html" rel="alternate" type="text/html" title="2021-22 동계 모각코 개인 목표 설정" /><published>2021-12-20T05:30:00+00:00</published><updated>2021-12-20T05:30:00+00:00</updated><id>/jekyll-theme-yat/pyside6/2021/12/20/2021-22</id><content type="html" xml:base="/jekyll-theme-yat/pyside6/2021/12/20/2021-22.html">&lt;p&gt;&amp;lt;21-22학년도 동계 모각코 개인 목표 설정&amp;gt;
+1) 학번 : 202102565
+2) 목표 : PySide6 프레임워크에 대한 학습.
+3) 일정 :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;[01.12]1회차_PySide6 프레임워크란?(개인 학습하기)&lt;/li&gt;
+  &lt;li&gt;[01.16]2회차_PySide6 프레임워크에 대해 이해한 부분 이야기 나누기&lt;/li&gt;
+  &lt;li&gt;[01.19]3회차_각자 PySide6를 활용하여 GUI 환경 구현해보기&lt;/li&gt;
+  &lt;li&gt;[01.23]4회차_자신의 GUI 환경을 발표하고 코드 공유기하기&lt;/li&gt;
+  &lt;li&gt;[01.26]5회차_서로의 코드의 문제점 및 개선점을 정리해오기&lt;/li&gt;
+  &lt;li&gt;[01.30]6회차_모두의 코드를 취합하여 하나의 GUI 환경 구현하기&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>GitHub User</name></author><category term="PySide6" /><summary type="html">&amp;lt;21-22학년도 동계 모각코 개인 목표 설정&amp;gt; 1) 학번 : 202102565 2) 목표 : PySide6 프레임워크에 대한 학습. 3) 일정 : [01.12]1회차_PySide6 프레임워크란?(개인 학습하기) [01.16]2회차_PySide6 프레임워크에 대해 이해한 부분 이야기 나누기 [01.19]3회차_각자 PySide6를 활용하여 GUI 환경 구현해보기 [01.23]4회차_자신의 GUI 환경을 발표하고 코드 공유기하기 [01.26]5회차_서로의 코드의 문제점 및 개선점을 정리해오기 [01.30]6회차_모두의 코드를 취합하여 하나의 GUI 환경 구현하기</summary></entry></feed>
